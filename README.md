@@ -23,3 +23,4 @@ Format : (starting and ending braces necessary)
 
 3. While testing through other upload ways , enctype of post request must be multipart/form-data for this to work.
 4. Maximum of 2 files can be selected at once.
+5. Node JS modules are not uploaded.
