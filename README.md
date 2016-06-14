@@ -9,7 +9,9 @@ How to run:
 
 Caution:
 1. Make sure directory uploads is available in project directory. All the uploaded files are temporary copied there.
-2. Assuming input JSON file to be in standard format (Given users.json is in this format.)
+2. While testing through other upload ways , enctype of post request must be multipart/form-data for this to work.
+3. Maximum of 2 files can be selected at once.
+4. Assuming input JSON file to be in standard format (Given users.json is in this format.)
 
 Format : (starting and ending braces necessary)
 {
@@ -20,7 +22,3 @@ Format : (starting and ending braces necessary)
 	 "b":"2",
 	}
 }
-
-3. While testing through other upload ways , enctype of post request must be multipart/form-data for this to work.
-4. Maximum of 2 files can be selected at once.
-5. Node JS modules are not uploaded.
