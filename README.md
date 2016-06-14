@@ -14,7 +14,7 @@ Caution:
 Format : (starting and ending braces necessary)
 {
 	{"a":"1",
-	 "b":"2",
+	"b":"2",
 	}
 	{"a":"3",
 	 "b":"2",
