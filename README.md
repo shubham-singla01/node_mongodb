@@ -1,8 +1,8 @@
 # node_mongodb
 How to run:
 
-1. Run npm install , to install required dependencies
-2.Run node model.js , to start server listening on port 3000
+1. Run npm install , to install required dependencies.
+2. Run node model.js , to start server listening on port 3000.
 3. Open test_view.html in browser and select valid JSON file.
 4. Click on Submit.
 5. Check database.(default database is testdata and users collection, It can be changed in model.js)
