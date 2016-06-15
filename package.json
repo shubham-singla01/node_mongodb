@@ -6,10 +6,6 @@
   "dependencies": {
     "express": "*",
     "mongodb": "*",
-	"body-parser": "*",
-	"multer": "*",
 	"http": "*",
-	"async": "*",
-	"fs": "*"
-  }
+	}
 }
